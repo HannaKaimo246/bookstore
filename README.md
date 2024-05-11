@@ -7,7 +7,7 @@ Tässä rapositoriossa on yksi kurssin tehtävistä. Sivulla voi lisätä kirjan
 + Kirjan nimen
 + Kirjoittajan
 + Julkaisuvuoden
-+ ISBN
++ ISBN:n
 + Hinnan
 
 Kirjoja voi poistaa listasta yksitellen. Sivuston koodasin React Vitella Ja tietokannan tein Firebasella (reaaliaikainen tietokanta). Grafiikka on tehty MUI:lla
